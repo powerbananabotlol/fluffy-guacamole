@@ -1,0 +1,5 @@
+a = rt
+b = a
+c = f
+d = fart
+print(d)
